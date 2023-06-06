@@ -41,7 +41,7 @@ span[role="image"] {
   --font-color: rgb(255, 255, 255);
   --background: rgb(50, 50, 50);
   --background--light: rgb(80, 80, 80);
-  transition: all 0.3s;
+
 }
 
 .App {
@@ -52,6 +52,7 @@ span[role="image"] {
   color: var(--font-color);
   box-shadow: 4px 4px 10px rgba(33, 33, 33, 0.2);
   border-radius: 10px;
+  transition: all 0.3s;
 }
 
 header {
